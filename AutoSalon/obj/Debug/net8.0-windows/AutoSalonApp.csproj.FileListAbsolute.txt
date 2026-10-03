@@ -1,0 +1,14 @@
+C:\вайб кодинг\AutoSalonApp\bin\Debug\net8.0-windows\AutoSalonApp.exe
+C:\вайб кодинг\AutoSalonApp\bin\Debug\net8.0-windows\AutoSalonApp.deps.json
+C:\вайб кодинг\AutoSalonApp\bin\Debug\net8.0-windows\AutoSalonApp.runtimeconfig.json
+C:\вайб кодинг\AutoSalonApp\bin\Debug\net8.0-windows\AutoSalonApp.dll
+C:\вайб кодинг\AutoSalonApp\bin\Debug\net8.0-windows\AutoSalonApp.pdb
+C:\вайб кодинг\AutoSalonApp\obj\Debug\net8.0-windows\AutoSalonApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\вайб кодинг\AutoSalonApp\obj\Debug\net8.0-windows\AutoSalonApp.AssemblyInfoInputs.cache
+C:\вайб кодинг\AutoSalonApp\obj\Debug\net8.0-windows\AutoSalonApp.AssemblyInfo.cs
+C:\вайб кодинг\AutoSalonApp\obj\Debug\net8.0-windows\AutoSalonApp.csproj.CoreCompileInputs.cache
+C:\вайб кодинг\AutoSalonApp\obj\Debug\net8.0-windows\AutoSalonApp.dll
+C:\вайб кодинг\AutoSalonApp\obj\Debug\net8.0-windows\refint\AutoSalonApp.dll
+C:\вайб кодинг\AutoSalonApp\obj\Debug\net8.0-windows\AutoSalonApp.pdb
+C:\вайб кодинг\AutoSalonApp\obj\Debug\net8.0-windows\AutoSalonApp.genruntimeconfig.cache
+C:\вайб кодинг\AutoSalonApp\obj\Debug\net8.0-windows\ref\AutoSalonApp.dll
